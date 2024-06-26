@@ -1,0 +1,26 @@
+.head1:hover{
+    font-family: fantasy;
+    color: whitesmoke;
+    
+}
+.head1{
+    background-color: rgb(61, 189, 189);
+    text-align: center;
+}
+.progress {
+    width: 550px; /* Adjust as needed */
+    margin-bottom: 5px; /* Adjust as needed */
+  }
+
+  .progress-bar {
+    height: 30px; /* Adjust as needed */
+    font-size: 5px; /* Adjust as needed */
+  }
+  .main{
+    float: inline-start;
+    display: flex;
+    justify-content: space-between;
+  }
+  .div2{
+    margin-right: 30px;
+  }

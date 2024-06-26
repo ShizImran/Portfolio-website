@@ -1,0 +1,18 @@
+.main {
+    width: 500px;
+    height: 150px;
+    background: rgb(61, 189, 189);
+    transition: width 2s;
+  }
+  
+ .main:hover {
+    width: 1000px;
+  }
+  .navbar-nav li a:hover {
+   
+    color: #db1d1d; /* Change text color on hover */
+  }
+
+p[data-type="info"]{
+  color: #db1d1d;
+}
